@@ -1,0 +1,26 @@
+:root {
+  color-scheme: dark;
+  --ink: #0b0a09;
+  --ink-raised: #12100e;
+  --ink-soft: #1a1713;
+  --paper: #e9dfca;
+  --paper-bright: #f7f0df;
+  --paper-muted: #aaa18f;
+  --oxide: #b94b32;
+  --oxide-deep: #742b21;
+  --amber: #d9983f;
+  --amber-pale: #f0c77a;
+  --wine: #4f1922;
+  --blue: #152739;
+  --hairline: rgba(233, 223, 202, .18);
+  --hairline-strong: rgba(233, 223, 202, .38);
+  --shadow: 0 32px 90px rgba(0, 0, 0, .55);
+  --ease-out: cubic-bezier(.16, 1, .3, 1);
+  --ease-in-out: cubic-bezier(.65, 0, .35, 1);
+  --display: Georgia, "Times New Roman", serif;
+  --sans: "Arial Narrow", "Roboto Condensed", "Helvetica Neue", Arial, sans-serif;
+  --mono: "Cascadia Mono", "IBM Plex Mono", Consolas, monospace;
+  --topbar: 72px;
+  --footer: 64px;
+  --rail: 74px;
+}
