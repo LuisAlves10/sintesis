@@ -1,6 +1,6 @@
 export const speakerNotes = [
   [
-    "Estas dos imágenes abren la presentación. Son imágenes conceptuales: no son fotos históricas ni representan de forma literal las tradiciones religiosas que aparecerán después.",
+    "Abrimos con dos imágenes conceptuales. No son fotos históricas.",
     "Estamos en La Habana, en 1976. El grupo ya se estaba formando, y el nombre Síntesis resume una idea sobre trabajar en conjunto.",
     "Aquí aparecen Carlos, Ele, Mike y José María. Venían de experiencias distintas, pero no querían que una sola persona fuera la figura principal.",
     "Carlos Alfonso recordó esa decisión con una frase: solo la música tendría nombre. Los nombres desaparecen y queda Síntesis."
@@ -8,48 +8,48 @@ export const speakerNotes = [
   [
     "Tema 4 fue un cuarteto vocal fundado por Carlos Alfonso en 1972. Ele Valdés participó en su etapa profesional. Ese trabajo con las voces fue importante para el nuevo grupo.",
     "Carlos recuerda una conversación en un festival de la Nueva Trova con Mike Porcel, José María Vitier, Amaury Pérez y los integrantes de Tema 4. Querían trabajar juntos sin poner a una persona por encima del conjunto.",
-    "La primera formación fotografiada tenía nueve músicos. Amaury participó en la idea, pero no aparece en esa foto. La imagen muestra varias trayectorias reunidas en un mismo grupo."
+    "La primera formación fotografiada tenía nueve músicos. Amaury participó en la idea, pero no aparece en esa foto. Allí vemos a músicos de trayectorias diferentes reunidos en un mismo grupo."
   ],
   [
-    "En los primeros años predominaba el rock sinfónico, con poesía, teatro, voces trabajadas y sintetizadores. Ancestros todavía no formaba parte de esa etapa.",
-    "Carlos y Ele mencionan a Pink Floyd, Genesis y Yes como referencias. Beach Boys pertenece a la formación anterior de Carlos, sobre todo por el equilibrio entre voces e instrumentos. El selector reúne esas referencias; no quiere decir que cada recurso viniera de una sola banda.",
+    "En los primeros años, Síntesis tocaba rock sinfónico y mezclaba música con poesía, teatro, voces trabajadas y sintetizadores.",
+    "Carlos y Ele mencionan a Pink Floyd, Genesis y Yes como referencias. Beach Boys aparece en la formación anterior de Carlos, sobre todo por el equilibrio entre voces e instrumentos.",
     "El concierto inaugural documentado fue el 14 de diciembre de 1978, en la Plaza de la Catedral. Entre enero y febrero de 1979 hicieron su primera gira internacional por la Unión Soviética, Hungría, Bulgaria y Polonia."
   ],
   [
     "En los años ochenta, Lucía Huergo tuvo un papel importante en Síntesis. Era compositora, arreglista y multiinstrumentista: trabajaba con instrumentos de viento, teclados y tecnologías digitales.",
-    "En Hilo Directo, cuya edición Areito está documentada en 1984, ya aparecen Asoyín y Mereguo. Esas canciones muestran que el camino hacia Ancestros había empezado antes.",
+    "En Hilo Directo, publicado por Areito en 1984, ya aparecen Asoyín y Mereguo. Esas canciones muestran que el camino hacia Ancestros había empezado antes.",
     "Lucía ayudó a acercar la experimentación electrónica y las raíces afrocubanas. En 1987, esa búsqueda llegó a un disco completo: Ancestros."
   ],
   [
-    "En abril de 1987, Síntesis grabó Ancestros en los estudios EGREM de La Habana. Carlos Alfonso y Lucía Huergo figuran en la producción; Carlos también aparece en la dirección musical.",
-    "Carlos contó su convivencia y observación en Mantilla, además del estudio del folclore y la danza. Lázaro Ros lo orientó en la acentuación, la entonación y la ejecución del canto ritual. También participó como voz; Joel Driggs grabó los tambores batá.",
-    "Eso no permite afirmar que los músicos fueran practicantes religiosos. Lo que está documentado es el trabajo de investigación. Los cantos y los batá influyeron en el ritmo, la voz y los arreglos del grupo."
+    "En abril de 1987, Síntesis grabó Ancestros en los estudios EGREM de La Habana. Carlos Alfonso y Lucía Huergo estuvieron a cargo de la producción, y Carlos también dirigió musicalmente el disco.",
+    "Carlos contó que pasó tiempo en Mantilla y que estudió folclore y danza. Lázaro Ros lo ayudó con la acentuación, la entonación y la ejecución del canto ritual. Ros también cantó en el álbum, y Joel Driggs grabó los tambores batá.",
+    "La participación en el disco no indica que todos fueran practicantes religiosos. Los cantos y los batá influyeron en el ritmo, la voz y los arreglos del grupo."
   ],
   [
-    "Primero aparece el canto. Después entran el batá, el bajo y la guitarra. Al final se suman batería, sintetizador y coro. Este orden es una explicación visual, no una reconstrucción de una sesión de grabación.",
-    "La percusión no queda debajo de una canción de rock como fondo. El ritmo puede organizar lo que hacen otros instrumentos. El guitarrista Ernesto Blanco habló de ese paso de células de batá a la guitarra.",
-    "Miren los acentos: mantienen su posición cuando cambia la figura. La guitarra conserva esa marca rítmica. El dibujo no transcribe un toque sagrado ni un riff real; solo muestra esa relación."
+    "Aquí separamos los elementos para escucharlos mejor: canto, batá, bajo, guitarra, batería, sintetizador y coro.",
+    "La percusión no queda solamente como fondo. El ritmo también organiza lo que hacen los otros instrumentos. El guitarrista Ernesto Blanco habló de ese paso de células de batá a la guitarra.",
+    "Miren los acentos: mantienen su posición cuando cambia la figura. La guitarra conserva esa marca rítmica."
   ],
   [
-    "Estos cantos se relacionan con tradiciones vivas. Los orishas son divinidades de tradiciones de raíz yoruba. En Cuba, el contexto Lucumí tiene su propia historia. El mapa relaciona canciones y nombres del repertorio; no resume una religión.",
+    "Los orishas son divinidades de tradiciones de raíz yoruba. En Cuba, el contexto Lucumí tiene su propia historia. Aquí elegimos algunos nombres que aparecen en las canciones de Síntesis.",
     "Yemayá aparece vinculada a Asaramawa. Changó, a Wemilere. Ochún, también escrita Oshún, a Ochihe Iwama. Oyá ya estaba en Ancestros, grabado en 1987.",
     "Elegguá se relaciona con caminos y comunicación; no es una figura diabólica. También aparecen Oggún, Ochosi y Obatalá. Las grafías cambian entre discos y tradiciones."
   ],
   [
-    "Cuba y Brasil recibieron personas africanas esclavizadas, con sus lenguas, prácticas y memorias. En cada lugar, esas herencias siguieron caminos propios.",
+    "Durante la esclavitud, muchas personas africanas fueron llevadas a Cuba y Brasil con sus lenguas, prácticas y memorias. En cada lugar, esas herencias siguieron caminos propios.",
     "Podemos señalar correspondencias aproximadas: Yemayá e Iemanjá; Changó y Xangô; Ochún y Oxum. También Oyá e Iansã, Oggún y Ogum, Ochosi y Oxóssi. Son relaciones históricas, no equivalencias rituales exactas.",
     "Con Elegguá, Eshú y Exu hay que ser aún más precisos. En el Candomblé, Exu es un orixá. En la Umbanda, el nombre también se usa para entidades espirituales. No debemos confundir esos usos ni asociarlos con el diablo.",
     "Regla de Ocha, Candomblé y Umbanda son tradiciones distintas."
   ],
   [
     "Carlos Alfonso y Ele Valdés son parte del núcleo histórico del grupo. Sus hijos, X y Eme Alfonso, también participaron musicalmente en Síntesis.",
-    "X y Eme siguieron carreras propias, con proyectos y decisiones diferentes. El árbol separa las ramas para mostrar esos caminos personales.",
+    "X y Eme también siguieron carreras propias, con proyectos y decisiones diferentes.",
     "En 2022 volvieron a trabajar juntos en Ancestros Sinfónico. Síntesis no se resume en estas cuatro personas: muchos otros músicos participaron en su historia."
   ],
   [
-    "La música de Síntesis nació en Cuba y también circuló por Europa y las Américas. La biografía oficial documenta festivales como Montreux y Nice Jazz, además de presentaciones en Estados Unidos, Canadá y México.",
-    "Brasil también aparece: Rock in Rio III, en 2001, el Festival Internacional de la Bahía y PercPan. El mapa marca destinos; no muestra una sola gira ni mide popularidad.",
-    "En la discografía hay que diferenciar grabación, edición y reedición. Ancestros fue grabado en 1987, aunque la cronología oficial lista 1989.",
+    "Síntesis también tocó fuera de Cuba. La biografía oficial menciona festivales como Montreux y Nice Jazz, además de presentaciones en Estados Unidos, Canadá y México.",
+    "En Brasil participaron en Rock in Rio III, en 2001, y también en el Festival Internacional de la Bahía y PercPan.",
+    "En la discografía hay que diferenciar grabación, edición y reedición. Ancestros se grabó en 1987, aunque en la biografía oficial aparece con fecha de 1989.",
     "Pregunta para ustedes: ¿cuál de estos discos no pertenece al Síntesis cubano? Es Conexión, de un grupo homónimo. Para identificar un disco conviene revisar los créditos, no solo el nombre en una plataforma."
   ],
   [
@@ -59,8 +59,8 @@ export const speakerNotes = [
     "En 2026, Carlos y Ele celebraron cincuenta años de Síntesis en Jazz Plaza, en La Habana."
   ],
   [
-    "Vimos voces, rock, cantos, ritmo, diásporas y nuevas generaciones. Todos esos elementos aparecen en distintos momentos de la historia del grupo.",
-    "También vimos cambios concretos: el ritmo influyó en los arreglos, la investigación amplió el repertorio y la familia volvió a reunirse en un proyecto sinfónico.",
+    "Para terminar, recordamos algunos elementos que aparecieron en la historia del grupo: voces, rock, cantos, ritmo, diásporas y nuevas generaciones.",
+    "El ritmo influyó en los arreglos, la investigación amplió el repertorio y la familia volvió a reunirse en un proyecto sinfónico.",
     "Con el tiempo, Síntesis también pasó a describir la forma en que el grupo hacía música.",
     "Entre 1976 y 2026, la banda cambió varias veces y siguió activa. Gracias por escuchar."
   ]
